@@ -1,0 +1,17 @@
+{
+  "name": "bla",
+  "version": "1.0.0",
+  "description": "lab8",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "jest": "^23.6.0",
+    "supertest": "^3.3.0"
+  }
+}
